@@ -56,7 +56,9 @@ area_of_circle=30*(3.14**2)
 circum_of_circle=3.14*(30*2)
 print("El area del circulo es:", area_of_circle)
 print("La circunferencia del circulo es:", circum_of_circle)
+
 print("Nuevo circulo")
+
 radio= input("Ingresa el radio del circulo: ")
 area=int(radio)*(3.14**2)
 print("El area del circulo es: ", area)
